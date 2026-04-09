@@ -10,5 +10,6 @@ printf("%d ", a);
  a = b;
  b = c;
 }
+printf("\n25331A05I6");
 return 0;
 }
